@@ -1,0 +1,16 @@
+
+# Environnement virtuel
+venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Tests
+.pytest_cache/
+
+# Modèle généré
+model.joblib
+
+# Fichiers système
+.DS_Store
